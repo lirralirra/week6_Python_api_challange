@@ -3,8 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Adding config.py file.
+api_keys.py
+
+# Ignore PyCharm IDE files
+.idea/
+*.iml
+
 # C extensions
 *.so
+
+#.DS_store
+.DS_Store
 
 # Distribution / packaging
 .Python
